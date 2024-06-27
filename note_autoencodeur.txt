@@ -1,0 +1,7 @@
+autoencodeur donne le premier modele avec les 1M de donnees d'entrainenment
+test2aut  amelioration du script avec notre jeu de donnees local 1.5M de smiles d'entrianement sauf que tres exhaustif en terme de memoire
+test3 est une copie de test2aut mais je vais l'utiliser comme controle et dans un repertoire different!
+si la memoire utilise plus de 10%
+J'ai incrementéma database sur celle initiale.
+Donc le jeu d'entrainement final est celui contenu dans le controle
+

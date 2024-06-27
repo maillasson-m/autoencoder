@@ -1,0 +1,22 @@
+
+name: all
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scipy
+  - tqdm
+  - rdkit
+  - tensorflow
+  - kaggle
+  - Unzip
+  - requests
+  - wget
+  - bioservices
+  - goatools
+  - chempy
